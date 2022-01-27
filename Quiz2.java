@@ -3,6 +3,7 @@
 // Professor: David Johannsen
 
 import java.util.Scanner;
+//first coimmit done
 public class Quiz2
 {
     public static void main(String[] args)
